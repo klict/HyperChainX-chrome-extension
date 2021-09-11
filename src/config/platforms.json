@@ -1,0 +1,44 @@
+[
+  {
+    "logo": "coinsniper-logo.png",
+    "title": "COINS SNIPER",
+    "link": "https://coinsniper.net/coin/12756",
+    "config": { "render": { "logo": false, "title": true } }
+  },
+  {
+    "logo": "coin-lambo-logo.png",
+    "title": "COIN LAMBO",
+    "link": "https://coinlambo.cc/hyperchain",
+    "config": { "render": { "logo": false, "title": true } }
+  },
+  {
+    "logo": "coinfind-logo.png",
+    "title": "COINFIND.CC",
+    "link": "https://coinfind.cc/coin/0x25b15E17164b97202616e36Af1234Db944121185",
+    "config": { "render": { "logo": false, "title": true } }
+  },
+  {
+    "logo": "coinhunters-logo.png",
+    "title": "COINHUNTERS",
+    "link": "https://coinhunters.cc/tokens/HyperChain",
+    "config": { "render": { "logo": false, "title": true } }
+  },
+  {
+    "logo": "coinvote-logo.png",
+    "title": "COINVOTE",
+    "link": "https://coinvote.cc/coin/HyperChain",
+    "config": { "render": { "logo": false, "title": true } }
+  },
+  {
+    "logo": "gem-hunters-logo.png",
+    "title": "GEMHUNTERS",
+    "link": "https://gemhunters.net/coin/hyperchainx/",
+    "config": { "render": { "logo": false, "title": true } }
+  },
+  {
+    "logo": "",
+    "title": "COINHUNT",
+    "link": "https://coinhunt.cc/coin/oP4X42sacWQi9PFomn9M",
+    "config": { "render": { "logo": false, "title": true } }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "Vote for Hyperchain X",
+  "description": "This extension is developed by the community to keep of track of the platforms to vote on. it will remind you every 24-hour that you can vote.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["alarms", "notifications", "storage"],
+  "action": {
+    "default_popup": "index.html",
+    "title": "HyperChain X"
+  },
+  "background": {
+    "service_worker": "workers_index.js"
+  },
+  "icons": {
+    "16": "icons/icon_16.png",
+    "48": "icons/icon_48.png",
+    "128": "icons/icon_128.png"
+  }
+}

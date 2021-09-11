@@ -1,0 +1,21 @@
+.logo {
+  max-height: 50px;
+}
+
+.title {
+  padding: 10px;
+  font-size: 1.23rem;
+}
+body a .list-group-item {
+  background-color: transparent;
+  border-color: #fff transparent #fff transparent;
+  color: #fff;
+}
+
+body a:last-child .list-group-item {
+  border-bottom-color: transparent;
+}
+
+body a:first-child .list-group-item {
+  border-top-color: transparent;
+}
